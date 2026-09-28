@@ -1,0 +1,2 @@
+DECONFUND_C1_BENIGN_MARKER
+authorized CodeRabbit VDP research (DECONFUND lane) — benign fixture, no secrets, no exploit code.
