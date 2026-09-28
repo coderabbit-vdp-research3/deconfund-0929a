@@ -1,0 +1,2 @@
+DECONFUND_C4_BENIGN_MARKER
+authorized CodeRabbit VDP research (DECONFUND lane control cell) — benign fixture, no secrets, no exploit code.
