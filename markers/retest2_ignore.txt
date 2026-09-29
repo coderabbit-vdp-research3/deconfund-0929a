@@ -1,0 +1,2 @@
+RETEST2_IGNORE_BENIGN_MARKER
+authorized CodeRabbit VDP re-verification (RETEST-FIELD lane, DECONFUND-01 body-skip recheck) — benign fixture, no secrets, no exploit code.
