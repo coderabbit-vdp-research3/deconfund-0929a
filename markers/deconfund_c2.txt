@@ -1,0 +1,2 @@
+DECONFUND_C2_BENIGN_MARKER
+authorized CodeRabbit VDP research (DECONFUND lane prize cell) — benign fixture, no secrets, no exploit code.
